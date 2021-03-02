@@ -16,5 +16,5 @@ author "1NFIN17Y#5646"
 description "Project X | Tail Script."
 version "1.0.0"
 
-client_script "client.lua"
-server_script "server.lua"
+client_script "client.lua" -- Load the client script.
+server_script "server.lua" -- Load the server script.
