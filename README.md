@@ -1,6 +1,8 @@
 # infinity_tails
 This was just a simple silly script that was made for pure education an learning.
 
+Contact me here https://discord.gg/wMD6Ed2szp for assistance.
+
 PLEASE READ THE LICENSE PROVIDED.
 
 Installation:
